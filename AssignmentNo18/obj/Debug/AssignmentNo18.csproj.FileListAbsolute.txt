@@ -1,0 +1,6 @@
+C:\Users\Ahmad\Desktop\Projects\Chapter 08\AssignmentNo18\AssignmentNo18\bin\Debug\AssignmentNo18.exe.config
+C:\Users\Ahmad\Desktop\Projects\Chapter 08\AssignmentNo18\AssignmentNo18\bin\Debug\AssignmentNo18.exe
+C:\Users\Ahmad\Desktop\Projects\Chapter 08\AssignmentNo18\AssignmentNo18\bin\Debug\AssignmentNo18.pdb
+C:\Users\Ahmad\Desktop\Projects\Chapter 08\AssignmentNo18\AssignmentNo18\obj\Debug\AssignmentNo18.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\Projects\Chapter 08\AssignmentNo18\AssignmentNo18\obj\Debug\AssignmentNo18.exe
+C:\Users\Ahmad\Desktop\Projects\Chapter 08\AssignmentNo18\AssignmentNo18\obj\Debug\AssignmentNo18.pdb
